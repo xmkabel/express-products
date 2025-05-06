@@ -1,0 +1,27 @@
+{
+  "name": "express-products",
+  "version": "1.0.0",
+  "description": "A RESTful API backend built with **Express.js** and **MySQL**, designed to manage a product catalog. It supports full CRUD operations.",
+  "homepage": "https://github.com/xmkabel/express-products#readme",
+  "bugs": {
+    "url": "https://github.com/xmkabel/express-products/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmkabel/express-products.git"
+  },
+  "license": "ISC",
+  "author": "xmkabel",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {}
+}
