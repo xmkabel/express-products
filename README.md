@@ -5,7 +5,7 @@ A RESTful API backend built with **Express.js** and **MySQL**, designed to manag
 ## 🚀 Features
 
 - Express.js server with modular routing
-- MySQL database integration using `mysql2`
+- MySQL database integration using `mysql`
 - CRUD operations for products
 - Nodemon for auto-reloading during development
 
@@ -14,5 +14,5 @@ A RESTful API backend built with **Express.js** and **MySQL**, designed to manag
 - Node.js  
 - Express.js  
 - MySQL  
-- mysql2  
+- mysql 
 - nodemon  
